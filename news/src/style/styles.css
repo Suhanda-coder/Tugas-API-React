@@ -1,0 +1,46 @@
+.warna{
+    background-color:blue;
+}
+.logo{
+    width: 250px;
+}
+.header{
+    background-color:blue;
+    height: 80px;
+}
+.toggler{
+    background-color: transparent;
+}
+.sliderimage {
+    margin-top: 70px;
+}
+.slider{
+    background-color:blue;
+    height: 600px;
+    margin-top: -50px;
+}
+.slide{
+    padding-top: 30px;
+}
+.notive{
+    margin-top: 20px;
+}
+.danger{
+    background-color:red ! important;
+}
+.slide{
+    margin-bottom:60px;
+    margin-top: 70px;
+}
+@media only screen and (max-width: 480px){
+    .slide{
+        background-color: rgb(186,3,2);
+        height: 90px;
+    }
+}
+.kiri{
+    float: left !important; 
+}
+.alert{
+    margin-top: 20px;
+}
